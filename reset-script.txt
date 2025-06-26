@@ -1,0 +1,1 @@
+sessionStorage.removeItem('FORM_AUTOMATION_STEP'); alert('Form progress has been reset. You can now start again from Page 1.');
